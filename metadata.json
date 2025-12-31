@@ -1,0 +1,7 @@
+{
+  "name": "Serenity AI: Your Mental Wellness Companion",
+  "description": "A compassionate AI-powered mental health chatbot providing a safe space for reflection, mood tracking, and evidence-based coping strategies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
